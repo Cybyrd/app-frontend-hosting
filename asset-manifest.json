@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/app-frontend-hosting/static/css/main.9e8fc86c.chunk.css",
-    "main.js": "/app-frontend-hosting/static/js/main.69319756.chunk.js",
-    "main.js.map": "/app-frontend-hosting/static/js/main.69319756.chunk.js.map",
-    "runtime-main.js": "/app-frontend-hosting/static/js/runtime-main.581c204f.js",
-    "runtime-main.js.map": "/app-frontend-hosting/static/js/runtime-main.581c204f.js.map",
+    "main.js": "/app-frontend-hosting/static/js/main.b093ad5f.chunk.js",
+    "main.js.map": "/app-frontend-hosting/static/js/main.b093ad5f.chunk.js.map",
+    "runtime-main.js": "/app-frontend-hosting/static/js/runtime-main.d980ce48.js",
+    "runtime-main.js.map": "/app-frontend-hosting/static/js/runtime-main.d980ce48.js.map",
     "static/css/2.13151e23.chunk.css": "/app-frontend-hosting/static/css/2.13151e23.chunk.css",
-    "static/js/2.8ab3f588.chunk.js": "/app-frontend-hosting/static/js/2.8ab3f588.chunk.js",
-    "static/js/2.8ab3f588.chunk.js.map": "/app-frontend-hosting/static/js/2.8ab3f588.chunk.js.map",
-    "static/js/3.21038cb5.chunk.js": "/app-frontend-hosting/static/js/3.21038cb5.chunk.js",
-    "static/js/3.21038cb5.chunk.js.map": "/app-frontend-hosting/static/js/3.21038cb5.chunk.js.map",
+    "static/js/2.773099d0.chunk.js": "/app-frontend-hosting/static/js/2.773099d0.chunk.js",
+    "static/js/2.773099d0.chunk.js.map": "/app-frontend-hosting/static/js/2.773099d0.chunk.js.map",
+    "static/js/3.119420de.chunk.js": "/app-frontend-hosting/static/js/3.119420de.chunk.js",
+    "static/js/3.119420de.chunk.js.map": "/app-frontend-hosting/static/js/3.119420de.chunk.js.map",
     "index.html": "/app-frontend-hosting/index.html",
     "static/css/2.13151e23.chunk.css.map": "/app-frontend-hosting/static/css/2.13151e23.chunk.css.map",
     "static/css/main.9e8fc86c.chunk.css.map": "/app-frontend-hosting/static/css/main.9e8fc86c.chunk.css.map",
-    "static/js/2.8ab3f588.chunk.js.LICENSE.txt": "/app-frontend-hosting/static/js/2.8ab3f588.chunk.js.LICENSE.txt",
-    "static/media/all.css": "/app-frontend-hosting/static/media/fa-solid-900.efbd5d20.eot",
-    "static/media/logo.6ce24c58.svg": "/app-frontend-hosting/static/media/logo.6ce24c58.svg"
+    "static/js/2.773099d0.chunk.js.LICENSE.txt": "/app-frontend-hosting/static/js/2.773099d0.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/app-frontend-hosting/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.581c204f.js",
+    "static/js/runtime-main.d980ce48.js",
     "static/css/2.13151e23.chunk.css",
-    "static/js/2.8ab3f588.chunk.js",
+    "static/js/2.773099d0.chunk.js",
     "static/css/main.9e8fc86c.chunk.css",
-    "static/js/main.69319756.chunk.js"
+    "static/js/main.b093ad5f.chunk.js"
   ]
 }
